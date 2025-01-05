@@ -1,6 +1,6 @@
-# Project Title
+# Python web app
 
-This project is a Python web application that performs various tasks as defined in the `main.py` file.
+This project is a Python web application that performs various tasks as defined in the Features.
 
 ## Requirements
 
